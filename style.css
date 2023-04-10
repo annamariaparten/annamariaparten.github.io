@@ -1,6 +1,6 @@
 .list_headers{
- text-color: white; 
- font-size: 25;
+    color: white; 
+    font-size: 25;
 }
 
 
@@ -16,13 +16,34 @@ div{
     background-color:pink   
 }
 
-p{
-    text-color: white; 
-    font_size: 50; 
-    text-shadow: 2px 2px black;
-
+h1{
+    color: white;
+    font-size: 100px; 
+    text-shadow: 6px 6px black;
+    text-align: center;
+    font-family: "Courier New", "Lucida Console", monospace;
 }
 
-.p1 {
-  font-family: "Times New Roman", Times, serif;
+
+.container ul{
+    display: block;
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow: hidden;
+}
+.container li {
+    float: left;
+}
+  
+
+
+.container li a{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 50px;
+    font-family: "Courier New", "Lucida Console", monospace;
+
+   
 }
