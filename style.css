@@ -13,6 +13,16 @@ body{
 }
 
 div{
-    background-color:pink
-    
+    background-color:pink   
+}
+
+p{
+    text-color: white; 
+    font_size: 50; 
+    text-shadow: 2px 2px black;
+
+}
+
+.p1 {
+  font-family: "Times New Roman", Times, serif;
 }
