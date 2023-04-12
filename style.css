@@ -72,3 +72,8 @@ h1{
     display: block;
   }
   
+.menu {
+    color: white; 
+    font-size: 30;
+    font-family: "Courier New", "Lucida Console", monospace;
+  }
