@@ -86,8 +86,8 @@ h1{
   }
 
 div.gallery {
-    margin: 5px;
-    border: 1px solid #ccc;
+    margin: 25px;
+    border: 10px solid #ccc;
     float: left;
     width: 300px;
   }
